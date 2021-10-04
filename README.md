@@ -25,4 +25,4 @@ pip install cvzone==1.4.1
 pip install -user medidpipe
 ```
 
-![image-20211004223914667](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20211004223914667.png)
+![如图](https://github.com/Season111/AI-Virtual-Keyboard-using-OpenCV-/blob/main/image/123.png)
