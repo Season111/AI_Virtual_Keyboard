@@ -1,4 +1,4 @@
-# AI-Virtual-Keyboard-using-OpenCV-
+# AI-Virtual-Keyboard-using-OpenCV
 ## 基于OPENCV的键盘探索
 
 ##### 本项目全程跟随 [网址](https://www.computervision.zone/lessons/video-lesson-4/)此项目依次进行
