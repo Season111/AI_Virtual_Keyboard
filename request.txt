@@ -1,0 +1,4 @@
+opencv
+pynput
+cvzone==1.4.1
+medidpipe
